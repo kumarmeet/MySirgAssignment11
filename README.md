@@ -1,2 +1,2 @@
 # MySirgAssignment11
-Arrays with function
+Arrays basic questions
